@@ -1,4 +1,6 @@
 syntax enable
+set noswapfile
+
 " general config
 set number
 set relativenumber
